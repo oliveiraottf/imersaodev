@@ -37,7 +37,7 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para contri
 
 **[Luis Eduardo]**
 
-**[(https://github.com/oliveiraottf)]**
+**https://github.com/oliveiraottf**
 
-**[(https://github.com/oliveiraottf/imersaodev)]**
+**https://github.com/oliveiraottf/imersaodev**
 
