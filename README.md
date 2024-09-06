@@ -2,7 +2,7 @@
 
 **O que faz essa aplicação?**
 
-Imagina você, fã de CBLOL, querendo saber tudo sobre aquele jogador estrangeiro que te impressionou. Com essa ferramenta, você digita o nome, uma palavra-chave ou até mesmo a nacionalidade do atleta, e pronto! A aplicação faz uma busca super rápida e te mostra todos os resultados relevantes. É como ter uma enciclopédia dos jogadores estrangeiros do CBLOL na palma da sua mão!
+Imagina você, fã de CBLOL(Campeonato Brasileiro de League of Legends), querendo saber tudo sobre aquele jogador estrangeiro que te impressionou. Com essa ferramenta, você digita o nome, uma palavra-chave ou até mesmo a nacionalidade do atleta, e pronto! A aplicação faz uma busca super rápida e te mostra todos os resultados relevantes. É como ter uma enciclopédia dos jogadores estrangeiros do CBLOL na palma da sua mão!
 
 **Como funciona a mágica?**
 
