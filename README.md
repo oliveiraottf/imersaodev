@@ -35,19 +35,9 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para contri
 
 **#CBLOL #DesenvolvimentoWeb #JavaScript**
 
-**[Seu nome ou nome da sua equipe]**
+**[Luis Eduardo]**
 
-**[Link para o seu perfil no GitHub]**
+**[(https://github.com/oliveiraottf)]**
 
-**[Link para o repositório do projeto]**
+**[(https://github.com/oliveiraottf/imersaodev)]**
 
-**[Qualquer outra informação que você achar relevante]**
-
-**Dicas:**
-
-* Use emojis para deixar o README mais divertido e fácil de ler.
-* Adicione imagens ou GIFs para ilustrar o funcionamento da aplicação.
-* Crie seções organizadas para facilitar a navegação.
-* Use uma linguagem clara e objetiva, como se estivesse explicando para um amigo.
-
-Com esse README bem elaborado, você vai atrair mais pessoas para o seu projeto e facilitar a vida de quem quiser contribuir!
